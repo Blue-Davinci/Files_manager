@@ -1,8 +1,8 @@
-# alx-files_manager
+# files_manager
 file manager
-
-- how to create an API with Express
-- how to authenticate a user
-- how to store data in MongoDB
-- how to store temporary data in Redis
-- how to setup and use a background worker
+A simple file manager
+- Express API
+- User Authentication
+- Mongo DB Storage
+- Redis DB Utilization
+- Background worker management
